@@ -15,7 +15,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
-        <h1 className="hero__title">
+        <h1 className="hero__title text-white">
           Find, book, rent a car—quick and super easy!
         </h1>
 
